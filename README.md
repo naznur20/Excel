@@ -1,1 +1,1 @@
-Тестовое задание по аналитике в Excel: структурирование сырых данных, сегментация, сводные таблицы, визуализация продаж и A/B-тест — от сырых данных до дашборда, готового для руководства.
+Excel Analytics Test Assignment: structuring raw data, segmentation, pivot tables, sales visualization, and A/B testing — from raw data to a dashboard ready for management.
